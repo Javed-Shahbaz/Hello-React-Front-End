@@ -12,7 +12,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
   - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -28,7 +27,7 @@
 
 # 📚🎵🎮 Hello React Frontend <a name="about-project"></a>
 
-**Hello React Frontend** In this project I am going to use an API created with <a href="https://github.com/Javed-Shahbaz/Hello-Rails-Back-End">hello-rails-back-end</a> app. 
+**Hello Rails Backend** In this project I am going to use an API created with <a href="https://github.com/Javed-Shahbaz/Hello-Rails-Back-End">hello-rails-back-end</a> app. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
