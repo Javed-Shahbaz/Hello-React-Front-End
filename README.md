@@ -128,7 +128,7 @@ No tests available for this project.
 
 please feel free to submit a pull request or open an issue on the project repository.
 
-Feel free to check the [issues page](github.com/Javed-Shahbaz/issues/).
+Feel free to check the [issues page](https://github.com/Javed-Shahbaz/Hello-React-Front-End/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
